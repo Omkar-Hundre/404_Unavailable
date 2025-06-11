@@ -216,7 +216,7 @@ Give a ⭐ if this project helped you!
 
 ### 🚀 **Experience the Cosmos**
 
-**[Live Demo: 404 Unavailable](https://omkar-hundre.github.io/404_unavailable/)**
+**[Live Demo: 404 Unavailable](https://omkar-hundre.github.io/404_Unavailable/)**
 
 ---
 
