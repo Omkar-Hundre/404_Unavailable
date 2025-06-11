@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 - Lost in Space</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Animated background stars -->
+    <div class="stars"></div>
+    <div class="stars2"></div>
+    <div class="stars3"></div>
+
+    <!-- Floating planets -->
+    <div class="planet planet-1"></div>
+    <div class="planet planet-2"></div>
+    <div class="planet planet-3"></div>
+
+    <div class="container">
+        <div class="error-content">
+
+
+            <!-- Main error content -->
+            <div class="error-box">
+                <div class="glitch-container">
+                    <h1 class="glitch" data-text="404">404</h1>
+                </div>
+                <h2 class="subtitle">Houston, we have a problem!</h2>
+                <p class="description">The page you're looking for has drifted into deep space. Let's get you back to Earth.</p>
+
+                <div class="button-container">
+                    <a href="/" class="home-button">
+                        <span class="button-text">Return to Base</span>
+                        <div class="button-bg"></div>
+                    </a>
+                    <button class="explore-button" onclick="createShootingStar()">
+                        <span class="button-text">Explore Space</span>
+                        <div class="button-bg"></div>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
