@@ -4,7 +4,7 @@ A stunning, interactive 404 error page with a cosmic space theme featuring glitc
 
 ## 🚀 Live Demo
 
-**[View Live Demo](https://omkar-hundre.github.io/404_unavailable/)**
+**[View Live Demo](https://omkar-hundre.github.io/404_Unavailable/)**
 
 ## ✨ Features
 
